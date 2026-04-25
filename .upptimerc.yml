@@ -9,9 +9,9 @@ sites:
     port: 465, 587, 993
     check: "tcp-ping"
   - name: tilde@Cornell Forgejo
-    url: code.cornelltilde.com
+    url: https://code.cornelltilde.com
   - name: tilde@Cornell Package Mirror
-    url: mirror.cornelltilde.com
+    url: https://mirror.cornelltilde.com
     #- name: IPv6 test
     # url: forwardemail.net
     # port: 80
