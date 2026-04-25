@@ -5,7 +5,7 @@ sites:
   - name: tilde@Cornell
     url: https://cornelltilde.com/
   - name: tilde@Cornell SMTP
-    url: mail.cornelltide.com
+    url: mail.cornelltilde.com
     port: 465, 587, 993
     check: "tcp-ping"
     #- name: IPv6 test
