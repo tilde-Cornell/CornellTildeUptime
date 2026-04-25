@@ -10,13 +10,12 @@ sites:
     check: "tcp-ping"
   - name: tilde@Cornell Forgejo
     url: https://code.cornelltilde.com
+  - name: tilde@Cornell Forgejo SSH
+    url: code.cornelltilde.com
+    port: 2222
+    check: "tcp-ping"
   - name: tilde@Cornell Package Mirror
     url: https://mirror.cornelltilde.com
-    #- name: IPv6 test
-    # url: forwardemail.net
-    # port: 80
-    # check: "tcp-ping"
-    # ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
