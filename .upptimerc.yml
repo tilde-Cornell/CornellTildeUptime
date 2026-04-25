@@ -4,6 +4,10 @@ repo: CornellTildeUptime
 sites:
   - name: tilde@Cornell
     url: https://cornelltilde.com/
+  - name: tilde@Cornell SMTP
+    url: mail.cornelltide.com
+    port: 465, 587, 993
+    check: "tcp-ping"
     #- name: IPv6 test
     # url: forwardemail.net
     # port: 80
