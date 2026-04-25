@@ -2,7 +2,7 @@ owner: Eason-Y-Lu
 repo: CornellTildeUptime
 
 sites:
-  - name: Cornell Tilde
+  - name: tilde@Cornell
     url: https://cornelltilde.com/
     #- name: IPv6 test
     # url: forwardemail.net
@@ -16,7 +16,7 @@ status-website:
   cname: status.cornelltilde.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Cornell Tilde Uptime
+  name: tilde@Cornell Uptime
   introTitle: Generic Intro Title
   introMessage: Generic Intro Message
   navbar:
