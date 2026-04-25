@@ -1,13 +1,17 @@
-owner: Eason-Y-Lu
+owner: tilde-cornell
 repo: CornellTildeUptime
 
 sites:
-  - name: tilde@Cornell
+  - name: tilde@Cornell Site
     url: https://cornelltilde.com/
-  - name: tilde@Cornell SMTP
+  - name: tilde@Cornell Email
     url: mail.cornelltilde.com
     port: 465, 587, 993
     check: "tcp-ping"
+  - name: tilde@Cornell Forgejo
+    url: code.cornelltilde.com
+  - name: tilde@Cornell Package Mirror
+    url: mirror.cornelltilde.com
     #- name: IPv6 test
     # url: forwardemail.net
     # port: 80
