@@ -1,20 +1,20 @@
 [
   {
-    "name": "Cornell Tilde",
+    "name": "tilde@Cornell",
     "url": "https://cornelltilde.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cornelltilde.com.ico",
-    "slug": "cornell-tilde",
+    "slug": "tilde-cornell",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 439,
-    "timeDay": 439,
-    "timeWeek": 439,
-    "timeMonth": 439,
-    "timeYear": 439,
+    "time": 400,
+    "timeDay": 400,
+    "timeWeek": 400,
+    "timeMonth": 400,
+    "timeYear": 400,
     "dailyMinutesDown": {}
   }
 ]
