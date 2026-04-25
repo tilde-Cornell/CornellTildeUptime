@@ -21,13 +21,14 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: tilde@Cornell Uptime
-  introTitle: Generic Intro Title
-  introMessage: Generic Intro Message
+  introTitle: tilde@Cornell Uptime
+  #introMessage: Generic Intro Message - Don't think we need this
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: ocean
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
