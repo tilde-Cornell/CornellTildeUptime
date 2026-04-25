@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tilde-cornell-smtp",
     "status": "up",
-    "uptime": "0.44%",
-    "uptimeDay": "0.44%",
-    "uptimeWeek": "0.44%",
-    "uptimeMonth": "0.44%",
-    "uptimeYear": "0.44%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 111,
     "timeDay": 111,
     "timeWeek": 111,
     "timeMonth": 111,
     "timeYear": 111,
-    "dailyMinutesDown": {
-      "2026-04-25": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
