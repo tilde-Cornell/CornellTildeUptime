@@ -58,19 +58,20 @@
     "url": "code.cornelltilde.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tilde-cornell-forgejo-ssh",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 55,
-    "timeDay": 55,
-    "timeWeek": 55,
-    "timeMonth": 55,
-    "timeYear": 55,
+    "status": "up",
+    "uptime": "32.18%",
+    "uptimeDay": "32.18%",
+    "uptimeWeek": "32.18%",
+    "uptimeMonth": "32.18%",
+    "uptimeYear": "32.18%",
+    "time": 43,
+    "timeDay": 43,
+    "timeWeek": 43,
+    "timeMonth": 43,
+    "timeYear": 43,
     "dailyMinutesDown": {
-      "2026-04-25": 0
+      "2026-04-26": 79,
+      "2026-04-25": 9
     }
   },
   {
