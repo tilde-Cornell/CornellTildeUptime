@@ -4,31 +4,42 @@ repo: CornellTildeUptime
 sites:
   - name: tilde@Cornell Site
     url: https://cornelltilde.com/
-  - name: tilde@Cornell Email
+    type: globalping
+  - name: tilde@Cornell Email UI
+    url: https://mail.cornelltilde.com
+    type: globalping
+  - name: tilde@Cornell SMTPS
     url: mail.cornelltilde.com
-    port: 465, 587, 993
+    port: 465
     check: "tcp-ping"
+    type: globalping
+  - name: tilde@Cornell STARTTLS
+    url: mail.cornelltilde.com
+    port: 587
+    check: "tcp-ping"
+    type: globalping
+  - name: tilde@Cornell IMAPS
+    url: mail.cornelltilde.com
+    port: 993
+    check: "tcp-ping"
+    type: globalping
   - name: tilde@Cornell Forgejo
     url: https://code.cornelltilde.com
+    type: globalping
   - name: tilde@Cornell Forgejo SSH
     url: code.cornelltilde.com
     port: 2222
     check: "tcp-ping"
+    type: globalping
   - name: tilde@Cornell SSO service
     url: https://sso.cornelltilde.com
+    type: globalping
   - name: tilde@Cornell Dev Server
     url: https://dev.cornelltilde.com
-    #- name: IPv6 test
-    # url: forwardemail.net
-    # port: 80
-    # check: "tcp-ping"
-    # ipv6: true
+    type: globalping
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cornelltilde.com
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: tilde@Cornell Uptime
   introTitle: tilde@Cornell Uptime
@@ -40,5 +51,5 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   theme: night
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  uptime: "*/10 * * * *"
