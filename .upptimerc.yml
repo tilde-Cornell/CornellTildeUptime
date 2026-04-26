@@ -14,8 +14,8 @@ sites:
     url: code.cornelltilde.com
     port: 2222
     check: "tcp-ping"
-  - name: tilde@Cornell Package Mirror
-    url: https://mirror.cornelltilde.com
+  - name: tilde@Cornell SSO service
+    url: https://sso.cornelltilde.com
   - name: tilde@Cornell Dev Server
     url: https://dev.cornelltilde.com
     #- name: IPv6 test
