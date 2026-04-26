@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 429,
-    "timeDay": 429,
-    "timeWeek": 429,
-    "timeMonth": 429,
-    "timeYear": 429,
+    "time": 420,
+    "timeDay": 420,
+    "timeWeek": 420,
+    "timeMonth": 420,
+    "timeYear": 420,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 184,
-    "timeDay": 184,
-    "timeWeek": 184,
-    "timeMonth": 184,
-    "timeYear": 184,
+    "time": 175,
+    "timeDay": 175,
+    "timeWeek": 175,
+    "timeMonth": 175,
+    "timeYear": 175,
     "dailyMinutesDown": {}
   },
   {
@@ -59,38 +59,40 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tilde-cornell-forgejo-ssh",
     "status": "up",
-    "uptime": "67.10%",
-    "uptimeDay": "67.10%",
-    "uptimeWeek": "67.10%",
-    "uptimeMonth": "67.10%",
-    "uptimeYear": "67.10%",
-    "time": 37,
-    "timeDay": 37,
-    "timeWeek": 37,
-    "timeMonth": 37,
-    "timeYear": 37,
+    "uptime": "75.92%",
+    "uptimeDay": "75.92%",
+    "uptimeWeek": "75.92%",
+    "uptimeMonth": "75.92%",
+    "uptimeYear": "75.92%",
+    "time": 32,
+    "timeDay": 32,
+    "timeWeek": 32,
+    "timeMonth": 32,
+    "timeYear": 32,
     "dailyMinutesDown": {
       "2026-04-26": 79,
       "2026-04-25": 9
     }
   },
   {
-    "name": "tilde@Cornell Package Mirror",
-    "url": "https://mirror.cornelltilde.com",
-    "icon": "https://icons.duckduckgo.com/ip3/mirror.cornelltilde.com.ico",
-    "slug": "tilde-cornell-package-mirror",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 142,
-    "timeWeek": 142,
-    "timeMonth": 142,
-    "timeYear": 142,
-    "dailyMinutesDown": {}
+    "name": "tilde@Cornell SSO service",
+    "url": "https://sso.cornelltilde.com",
+    "icon": "https://icons.duckduckgo.com/ip3/sso.cornelltilde.com.ico",
+    "slug": "tilde-cornell-sso-service",
+    "status": "down",
+    "uptime": "19.44%",
+    "uptimeDay": "19.44%",
+    "uptimeWeek": "19.44%",
+    "uptimeMonth": "19.44%",
+    "uptimeYear": "19.44%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-04-26": 0
+    }
   },
   {
     "name": "tilde@Cornell Dev Server",
@@ -109,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-26": 38
+      "2026-04-26": 136
     }
   }
 ]
