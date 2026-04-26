@@ -16,6 +16,13 @@ sites:
     check: "tcp-ping"
   - name: tilde@Cornell Package Mirror
     url: https://mirror.cornelltilde.com
+  - name: tilde@Cornell Dev Server
+    url: https://dev.cornelltilde.com
+    #- name: IPv6 test
+    # url: forwardemail.net
+    # port: 80
+    # check: "tcp-ping"
+    # ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
