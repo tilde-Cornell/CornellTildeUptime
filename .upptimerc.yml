@@ -50,7 +50,5 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: night
-
-workflowSchedule:
-  uptime: "4,19,34,49 * * * *"
   
+runner: "[self-hosted, linux, ARM64]"
