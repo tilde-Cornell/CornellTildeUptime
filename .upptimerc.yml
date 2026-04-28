@@ -51,4 +51,4 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   theme: night
 
-runner: "[self-hosted, Linux, ARM64]"
+runner: [self-hosted, linux]
