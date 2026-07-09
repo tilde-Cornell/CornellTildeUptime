@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 192,
-    "timeDay": 49,
-    "timeWeek": 57,
+    "time": 190,
+    "timeDay": 43,
+    "timeWeek": 58,
     "timeMonth": 75,
-    "timeYear": 192,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2026-04-26": 51,
       "2026-05-07": 42
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 191,
-    "timeDay": 94,
-    "timeWeek": 128,
-    "timeMonth": 128,
-    "timeYear": 191,
+    "time": 189,
+    "timeDay": 86,
+    "timeWeek": 118,
+    "timeMonth": 127,
+    "timeYear": 189,
     "dailyMinutesDown": {
       "2026-05-07": 42
     }
@@ -54,7 +54,7 @@
     "time": 29,
     "timeDay": 4,
     "timeWeek": 10,
-    "timeMonth": 13,
+    "timeMonth": 12,
     "timeYear": 29,
     "dailyMinutesDown": {
       "2026-05-07": 41
@@ -72,7 +72,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 28,
-    "timeDay": 3,
+    "timeDay": 4,
     "timeWeek": 7,
     "timeMonth": 10,
     "timeYear": 28,
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 31,
+    "time": 30,
     "timeDay": 4,
-    "timeWeek": 7,
+    "timeWeek": 4,
     "timeMonth": 14,
-    "timeYear": 31,
+    "timeYear": 30,
     "dailyMinutesDown": {
       "2026-05-07": 41
     }
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 405,
-    "timeDay": 458,
-    "timeWeek": 468,
-    "timeMonth": 466,
-    "timeYear": 405,
+    "time": 406,
+    "timeDay": 461,
+    "timeWeek": 465,
+    "timeMonth": 463,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2026-05-07": 41
     }
@@ -153,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 488,
-    "timeDay": 382,
-    "timeWeek": 382,
-    "timeMonth": 569,
-    "timeYear": 488,
+    "time": 487,
+    "timeDay": 423,
+    "timeWeek": 389,
+    "timeMonth": 572,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2026-04-26": 74,
       "2026-05-07": 41
@@ -169,16 +169,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.cornelltilde.com.ico",
     "slug": "tilde-cornell-dev-server",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.67%",
-    "time": 126,
-    "timeDay": 26,
-    "timeWeek": 65,
-    "timeMonth": 68,
-    "timeYear": 126,
+    "uptimeYear": "99.68%",
+    "time": 125,
+    "timeDay": 37,
+    "timeWeek": 66,
+    "timeMonth": 66,
+    "timeYear": 125,
     "dailyMinutesDown": {
       "2026-04-26": 306,
       "2026-05-07": 40
