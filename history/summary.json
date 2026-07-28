@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 168,
+    "time": 166,
     "timeDay": 32,
-    "timeWeek": 34,
+    "timeWeek": 33,
     "timeMonth": 71,
-    "timeYear": 168,
+    "timeYear": 166,
     "dailyMinutesDown": {
       "2026-04-26": 51,
       "2026-05-07": 42
@@ -33,7 +33,7 @@
     "uptimeYear": "99.97%",
     "time": 175,
     "timeDay": 104,
-    "timeWeek": 106,
+    "timeWeek": 103,
     "timeMonth": 110,
     "timeYear": 175,
     "dailyMinutesDown": {
@@ -52,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 25,
-    "timeDay": 5,
-    "timeWeek": 5,
+    "timeDay": 3,
+    "timeWeek": 4,
     "timeMonth": 7,
     "timeYear": 25,
     "dailyMinutesDown": {
@@ -72,7 +72,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 24,
-    "timeDay": 5,
+    "timeDay": 3,
     "timeWeek": 4,
     "timeMonth": 6,
     "timeYear": 24,
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 417,
+    "time": 418,
     "timeDay": 458,
-    "timeWeek": 490,
-    "timeMonth": 472,
-    "timeYear": 417,
+    "timeWeek": 488,
+    "timeMonth": 470,
+    "timeYear": 418,
     "dailyMinutesDown": {
       "2026-05-07": 41
     }
@@ -153,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 480,
-    "timeDay": 375,
-    "timeWeek": 458,
-    "timeMonth": 417,
-    "timeYear": 480,
+    "time": 479,
+    "timeDay": 387,
+    "timeWeek": 452,
+    "timeMonth": 418,
+    "timeYear": 479,
     "dailyMinutesDown": {
       "2026-04-26": 74,
       "2026-05-07": 41
@@ -174,11 +174,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 111,
-    "timeDay": 47,
-    "timeWeek": 36,
+    "time": 110,
+    "timeDay": 45,
+    "timeWeek": 38,
     "timeMonth": 48,
-    "timeYear": 111,
+    "timeYear": 110,
     "dailyMinutesDown": {
       "2026-04-26": 306,
       "2026-05-07": 40
